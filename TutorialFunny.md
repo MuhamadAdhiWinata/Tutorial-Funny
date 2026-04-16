@@ -62,3 +62,7 @@ Di dunia ini, kata-kata memiliki makna ganda. Mari kita bedah beberapa istilah k
 {% endhint %}
 
 Jaga kesehatan, jangan lupa save kode, dan selamat ngoding! 💻✨
+
+<style>
+#gitbook-footer { display: none !important; }
+</style>
